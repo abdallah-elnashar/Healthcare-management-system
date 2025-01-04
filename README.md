@@ -1,4 +1,32 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# **CarePulse**
+
+Hey there! 👋  
+Welcome to **CarePulse**, my healthcare patient management application. This project is designed to make managing doctor appointments easy for patients and efficient for administrators. 🚀  
+
+I built CarePulse as part of my learning journey with modern web technologies, and I’m excited to share it with you. Let me walk you through what this project is all about!  
+
+---
+
+## **Features**
+
+Here’s what CarePulse can do:  
+- **Patient Registration**: Users can create personalized profiles effortlessly.  
+- **Appointment Booking**: Patients can schedule and manage their appointments in a few clicks.  
+- **Admin Management**: Administrators can confirm, reschedule, or cancel appointments seamlessly.  
+- **SMS Notifications**: Real-time appointment updates via Twilio integration.  
+- **File Uploads**: Securely store and manage files using Appwrite Storage.  
+- **Responsive Design**: Works beautifully across desktops, tablets, and mobile devices.  
+
+---
+
+## **Tech Stack**
+
+I used some of the coolest technologies to bring this project to life:  
+- **Frontend**: Next.js, TypeScript, TailwindCSS, ShadCN  
+- **Backend**: Appwrite  
+- **Messaging**: Twilio  
+
+---
 
 ## Getting Started
 
